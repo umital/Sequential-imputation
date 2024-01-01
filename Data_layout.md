@@ -1,7 +1,5 @@
 
-# Data archive layout for Mital et al (2020)
-Mital, U., Dwivedi, D., Brown, J. B., Faybishenko, B., Painter, S. L., and Steefel, C. I. (2020). Sequential Imputation of Missing Spatio-Temporal Precipitation Data Using Random Forests. Front. Water 2, 20. doi:10.3389/frwa.2020.00020.
-
+# Data archive layout
 
 - README.md
 
